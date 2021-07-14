@@ -2,4 +2,4 @@
 
 mvn -f pom.xml clean package -U
 
-cp target/reinforcement-learning-flappy-bird.jar bin/reinforcement-learning-tic-tac-toe.jar
+cp target/reinforcement-learning-tic-tac-toe.jar bin/reinforcement-learning-tic-tac-toe.jar
